@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Task.</string>
+	<string name="link_button">Link to Dropbox</string>
+	<string name="task_label">New Task</string>    
+	<string name="add_button">Add</string>
+
+
+    <string name="hello">Hello World, LockScreenAppActivity!</string>
+    <string name="unloack">Unlock</string>
+    <color name="mycolor1">#F5DC49</color>
+
+
+    <string name="empty_view_text">No cities found...</string>
+    <string name="toast_format_string">%1$s says Hi!</string>
+    <string name="item_format_string">%1$d\u00B0 in %2$s</string>
+</resources>
